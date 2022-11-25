@@ -1,8 +1,4 @@
 # JsonPowerDB 
-
-
-
-
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
 
 ### About JsonPowerDB:
@@ -17,4 +13,6 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+![image](https://user-images.githubusercontent.com/77100387/203973288-155a823f-7ca0-47dc-962a-d8cda8df289b.png)
+![Uploading image.png…]()
 
